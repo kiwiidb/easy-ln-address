@@ -1,0 +1,5 @@
+{
+	"rewrites": [
+	  { "source": "/.well-known/lnurlp/:user", "destination": "/api/lnurlp" }
+	]
+}
