@@ -19,3 +19,7 @@ LNURL Comments are supported, payer info is not.
     - LNDHUB_LOGIN: the "username" of your LNDhub account (lndhub://USERNAME:password@https://example.com)
     - (optional) MIN_SENDABLE: the minimum amount of msats people should send. Default 1000 (minimum 1000)
     - (optional) MAX_SENDABLE: the maximum amount of msats people should send. Default 1e10 (0.1 BTC).
+
+- Click `Deploy`
+- You should now have infinite LN Addresses: `arbitrary-string@project-name.vercel.app`
+- If you want to link your own domain, buy it on Vercel or import it and point it to this project.
