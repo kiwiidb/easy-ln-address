@@ -10,7 +10,7 @@ import (
 
 const (
 	DEFAULT_MIN = int(1e3)
-	DEFAULT_MAX = int(1e8)
+	DEFAULT_MAX = int(1e10)
 )
 
 type LNURLPayBody struct {
